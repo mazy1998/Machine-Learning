@@ -12,4 +12,5 @@ Here we can see a linear function being fit to the same cubic data set.
 # Using Stochastic Methods
 
 Here we can see the line slowly fitting it's data point by minimizing the fit error. If a user wishes they can import their own data but the Sklearn code would be a better option.
+
 ![Alt Text](https://media.giphy.com/media/1eEv6KTDqWkwi301ZH/giphy.gif)
